@@ -1,3 +1,3 @@
 # MUDE
 personal repository of Reno Gong
-some changes in README
+some changes in README.md
